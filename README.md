@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.12660/rbfin.vXXXX.2024.XXXXX.svg)](https://doi.org/10.12660/rbfin.vXXXX.2024.XXXXX)
 
 # profitability-premium-BR
-Este repositório contém o código fonte utilizado para replicar os resultados do artigo científico "O Prêmio da Lucratividade no Mercado de Capitais Brasileiro". O código foi desenvolvido em R e inclui scripts para análise de dados, estatísticas e visualizações. Esta pesquisa é baseada nos trabalhos anteriores de [Novy-Marx (2013)](https://doi.org/10.1016/j.jfineco.2013.01.003) e [Fama e French (2015)](https://doi.org/10.1016/j.jfineco.2014.10.010) 
+Este repositório contém o código fonte utilizado para replicar os resultados do artigo científico "O Prêmio da Lucratividade no Mercado de Capitais Brasileiro". O código foi desenvolvido em R e inclui scripts para análise de dados, estatísticas e visualizações. Esta pesquisa é baseada nos trabalhos anteriores de [Novy-Marx (2013)](https://doi.org/10.1016/j.jfineco.2013.01.003) e [Fama e French (2015)](https://doi.org/10.1016/j.jfineco.2014.10.010). 
 
 # EM CONSTRUÇÃO
 
@@ -23,5 +23,7 @@ JEL Code: G12, G14, M40.
 # Referências
 
 [Fama, E. F. e MacBeth, J. D. (1973). Risk, return, and equilibrium: Empirical tests, Journal of Political Economy 81(3): 607–636.](https://dx.doi.org/10.1086/260061)
+
 [Fama, E. F. e French, K. R. (2015). A five-factor asset pricing model, Journal of Financial Economics 116(1): 1 – 22.](https://doi.org/10.1016/j.jfineco.2014.10.010)
+
 [Novy-Marx, R. (2013). The other side of value: The gross profitability premium, Journal of Financial Economics 108(1): 1 – 28.](https://doi.org/10.1016/j.jfineco.2013.01.003)
