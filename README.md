@@ -10,6 +10,7 @@ Este repositório contém o código fonte utilizado para replicar os resultados 
 O presente estudo avalia o impacto de diferentes medidas de lucratividade no contexto brasileiro na previsão dos retornos médios em seções transversais e na geração de retorno em excesso ao construir portfólios. Foram conduzidas análises de regressão seguindo a metodologia proposta por [Fama e MacBeth (1973)](https://dx.doi.org/10.1086/260061) com dados trimestrais no período de 2005 a 2023, juntamente com a construção de portfólios, rebalanceados anualmente e agrupados por lucratividade ou por tamanho e lucratividade. Foi identificada a relevância do fluxo de caixa livre e do lucro operacional, mais adequados ao mercado brasileiro, e observamos a ausência do efeito tamanho e do *momentum* de curto prazo. Este estudo contribui para a compreensão da relação entre lucratividade e retornos futuros no mercado de capitais brasileiro, aplicável a mercados similares em porte, destacando a importância da adaptação de metodologias internacionais.
 
 Palavras-chave: Lucratividade; Retornos anormais; Precificação de ativos.
+
 Código JEL: G12, G14, M40.
 
 # ABSTRACT
