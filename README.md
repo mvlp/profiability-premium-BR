@@ -25,8 +25,9 @@ JEL Code: G12, G14, M40.
 
 [Fama, E. F. e MacBeth, J. D. (1973). Risk, return, and equilibrium: Empirical tests, Journal of Political Economy 81(3): 607–636.](https://dx.doi.org/10.1086/260061)
 
+[Novy-Marx, R. (2013). The other side of value: The gross profitability premium, Journal of Financial Economics 108(1): 1 – 28.](https://doi.org/10.1016/j.jfineco.2013.01.003)
+
 [Fama, E. F. e French, K. R. (2015). A five-factor asset pricing model, Journal of Financial Economics 116(1): 1 – 22.](https://doi.org/10.1016/j.jfineco.2014.10.010)
 
-[Novy-Marx, R. (2013). The other side of value: The gross profitability premium, Journal of Financial Economics 108(1): 1 – 28.](https://doi.org/10.1016/j.jfineco.2013.01.003)
 
 # EM CONSTRUÇÃO
