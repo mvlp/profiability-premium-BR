@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: Profitability Premium Brazil
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: M. V. L.
+    family-names: Pereira
+    email: marcos.vinicius@ufsj.edu.br
+    affiliation: UFSJ
+    orcid: 'https://orcid.org/0000-0002-0250-8743'
+  - given-names: M. C. R.
+    family-names: Leles
+    email: mleles@ufsj.edu.br
+    affiliation: UFSJ
+    orcid: 'https://orcid.org/0000-0001-7399-7444'
+repository-code: 'https://github.com/mvlp/profitability-premium-BR'
+preferred-citation:
+  type: article
+  authors:
+    - given-names: M. V. L.
+      family-names: Pereira
+      email: marcos.vinicius@ufsj.edu.br
+      affiliation: UFSJ
+      orcid: 'https://orcid.org/0000-0002-0250-8743'
+    - given-names: M. C. R.
+      family-names: Leles
+      email: mleles@ufsj.edu.br
+      affiliation: UFSJ
+      orcid: 'https://orcid.org/0000-0001-7399-7444'
+  doi: "10.12660/rbfin.v22n1.2024.90625"
+  journal: "Brazilian Review of Finance"
+  month: 3
+  start: 103 # First page number
+  end: 139  # Last page number
+  title: "The profitability premium in the Brazilian capital market"
+  issue: 1
+  volume: 22
+  year: 2024
+  abstract: >-
+    The present study assesses the impact of different profitability measures, 
+    in the Brazilian context, on predicting the cross-section of average returns
+    and generating excess returns when constructing portfolios. Regression analyses 
+    following the methodology proposed by Fama and MacBeth (1973) with quarterly data 
+    from 2005 to 2023 were conducted, along with portfolio construction, annually rebalanced, 
+    and grouped by profitability or by size and profitability. We identified the 
+    relevance of free cash flow and operating profit, more suitable for the Brazilian market, 
+    and observed the absence of size effect and short-term momentum. 
+    This study contributes to understanding the relationship between profitability and 
+    future returns in the Brazilian capital market and in similarly sized markets, 
+    highlighting the importance of adapting international methodologies.
+  keywords:
+    - Proﬁtability  
+    - Abnormal returns
+    - Asset pricing
