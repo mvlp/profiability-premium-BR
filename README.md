@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.12660/rbfin.vXXXX.2024.XXXXX.svg)](https://doi.org/10.12660/rbfin.vXXXX.2024.XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.12660/rbfin.v22n1.2024.90625.svg)](https://doi.org/10.12660/rbfin.v22n1.2024.90625)
 
 [![YouTube Video Views](https://img.shields.io/youtube/views/exXBIJdGh1A?label=Apresentação%20SemeAd2023%20(resultados%20preliminares))](https://www.youtube.com/watch?v=exXBIJdGh1A)
 
