@@ -30,4 +30,6 @@ JEL Code: G12, G14, M40.
 [Fama, E. F. e French, K. R. (2015). A five-factor asset pricing model, Journal of Financial Economics 116(1): 1 – 22.](https://doi.org/10.1016/j.jfineco.2014.10.010)
 
 
-# EM CONSTRUÇÃO
+# CÓDIGO FONTE (EM CONSTRUÇÃO)
+
+Apenas baixe todo o repositório e execute o arquivo `script_Pereira_Leles_2024.R`. Ao final da execução o usuário terá acesso a todos os resultados presentes no artigo. Atualizações no código serão feitas a fim de torná-lo mais legível além de trazer uma documentação mais adequada das funções e procedimentos implementados. Indentificação de bugs, inconsistências e demais considerações construtivas são bem vindas.
