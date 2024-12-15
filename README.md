@@ -44,7 +44,7 @@ Apenas baixe todo o repositório e execute o arquivo `script_Pereira_Leles_2024.
 - **[Michel Leles](http://lattes.cnpq.br/5512914843540140)**  
   - Afiliado ao [DTECH/CAP/UFSJ](https://ufsj.edu.br/dtech/corpo_docente.php)  
   - E-mail: mleles@ufsj.edu.br
-  - Doutor em Engenharia Elétrica
+  - Doutor em Engenharia Elétrica (Sinais e Sistemas)
 
 ## Contribuições
 
